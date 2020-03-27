@@ -1,2 +1,2 @@
-# Matrix-Computation-Class
-Chung Ang University
+# Matrix Computation Class
+Chung-Ang University
