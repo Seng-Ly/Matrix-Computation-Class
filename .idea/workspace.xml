@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aac7d8ee-4649-45fd-94a7-e72d4d722545" name="Default Changelist" comment="" />
+    <list default="true" id="aac7d8ee-4649-45fd-94a7-e72d4d722545" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Testing.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="b9c43e57-c8eb-4166-9a04-ff86a76dda5f" />
+  <component name="JupyterTrust" id="b9c43e57-c8eb-4166-9a04-ff86a76dda5f">
+    <option name="files">
+      <option value="Testing.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1ZyKhFKDUGvJSqW8Znc9hoQHQjA" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,6 +39,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AINS-SENGLY\MatrixComputationClass" />
+      <recent name="C:\Users\AINS-SENGLY\MatrixComputationClass\assigments" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -74,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585806010241</updated>
       <workItem from="1585806013790" duration="2044000" />
+      <workItem from="1585808505508" duration="212000" />
     </task>
     <servers />
   </component>
@@ -89,22 +102,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1700" y="281" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1585806040614" />
-    <state width="816" height="155" key="GridCell.Tab.0.bottom" timestamp="1585806573064">
+    <state width="816" height="273" key="GridCell.Tab.0.bottom" timestamp="1585808719790">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="816" height="155" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1585806573064" />
-    <state width="816" height="155" key="GridCell.Tab.0.center" timestamp="1585806573064">
+    <state width="816" height="273" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1585808719790" />
+    <state width="816" height="273" key="GridCell.Tab.0.center" timestamp="1585808719790">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="816" height="155" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1585806573064" />
-    <state width="816" height="155" key="GridCell.Tab.0.left" timestamp="1585806573064">
+    <state width="816" height="273" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1585808719790" />
+    <state width="816" height="273" key="GridCell.Tab.0.left" timestamp="1585808719790">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="816" height="155" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1585806573064" />
-    <state width="816" height="155" key="GridCell.Tab.0.right" timestamp="1585806573064">
+    <state width="816" height="273" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1585808719790" />
+    <state width="816" height="273" key="GridCell.Tab.0.right" timestamp="1585808719790">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="816" height="155" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585806573064" />
+    <state width="816" height="273" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585808719790" />
     <state x="1423" y="168" key="SettingsEditor" timestamp="1585806099387">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
