@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aac7d8ee-4649-45fd-94a7-e72d4d722545" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assigments/02/assignment02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assigments/02/assignment02.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="aac7d8ee-4649-45fd-94a7-e72d4d722545" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585806010241</updated>
       <workItem from="1585806013790" duration="2044000" />
-      <workItem from="1585808505508" duration="2583000" />
+      <workItem from="1585808505508" duration="3225000" />
     </task>
     <servers />
   </component>
@@ -118,6 +116,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="816" height="273" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585808719790" />
+    <state x="989" y="249" key="MultipleFileMergeDialog" timestamp="1585813577755">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="989" y="249" key="MultipleFileMergeDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1585813577755" />
     <state x="1423" y="168" key="SettingsEditor" timestamp="1585809974526">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
