@@ -11,11 +11,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="b9c43e57-c8eb-4166-9a04-ff86a76dda5f">
+    <option name="files">
+      <option value="assigments\02\assignment02.ipynb" />
+    </option>
   </component>
   <component name="ProjectId" id="1ZyKhFKDUGvJSqW8Znc9hoQHQjA" />
   <component name="ProjectLevelVcsManager">
@@ -71,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585806010241</updated>
-      <workItem from="1585806013790" duration="396000" />
+      <workItem from="1585806013790" duration="706000" />
     </task>
     <servers />
   </component>
