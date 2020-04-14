@@ -1,5 +1,6 @@
 <application>
   <component name="JupyterSettings">
     <option name="showSourcesInPreview" value="false" />
+    <option name="useEditorFontSize" value="false" />
   </component>
 </application>
